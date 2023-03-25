@@ -1,0 +1,13 @@
+## Liste des fonctionnalités et de leur avancement : 
+
+Fonctionnalité 1 : Terminée
+Fonctionnalité 2 : Terminée
+Fonctionnalité 3 : Terminée
+Fonctionnalité 4 : Terminée
+Fonctionnalité 5 : Terminée
+Fonctionnalité 6 : Pas commencée
+Fonctionnalité 7 : Pas commencée
+Fonctionnalité 8 : Pas commencée
+Fonctionnalité 9 : Pas commencée
+
+

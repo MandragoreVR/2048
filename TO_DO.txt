@@ -1,0 +1,5 @@
+Fonctionnalités à rajouter : 
+
+-> Retour en arrière 
+-> Système de sauvegarde 
+-> Probabilités variables d'apparition de 2 et 4 (système de difficultés de la grille ?)

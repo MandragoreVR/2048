@@ -1,0 +1,6 @@
+Modules nécessaires :
+pytest
+coverage
+pytest-cov
+
+Créer un dossier Saves à côté des programmes
